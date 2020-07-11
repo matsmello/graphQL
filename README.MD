@@ -18,4 +18,5 @@
 <li>Graphql-yoga is developer friendly</li>
 <li>Graphql is great because improve how backend should handle with the correctly data based on request necessity</li>
 <li>Over fetching is not more a problem but the past 😝</li>
+<li>Query/Mutation/Subscription are basically Index & Show / Create & Update & Delete / Socket</li>
 </ul>
